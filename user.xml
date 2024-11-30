@@ -1,0 +1,34 @@
+<Students>
+<Student>
+    <Name>Marella Mahadevan </Name>
+    <Email>marellamahadevan045@gmail.com</Email>
+    <Addresses>
+        <PermAddress>
+            <AddressLine1>marathalli</AddressLine1>
+            <AddressLine2>beml layout</AddressLine2>
+            <Street>Vivekananda Street</Street>
+        </PermAddress>
+        <CurrentAddress>
+            <AddressLine1>marathalli</AddressLine1>
+            <AddressLine2>beml layout</AddressLine2>
+            <Street>Vivekananda Street</Street>
+        </CurrentAddress>
+    </Addresses>
+</Student>
+<Student>
+    <Name>Marella Mahadevan </Name>
+    <Email>marellamahadevan045@gmail.com</Email>
+    <Addresses>
+        <PermAddress>
+            <AddressLine1>marathalli</AddressLine1>
+            <AddressLine2>beml layout</AddressLine2>
+            <Street>Vivekananda Street</Street>
+        </PermAddress>
+        <CurrentAddress>
+            <AddressLine1>marathalli</AddressLine1>
+            <AddressLine2>beml layout</AddressLine2>
+            <Street>Vivekananda Street</Street>
+        </CurrentAddress>
+    </Addresses>
+</Student>
+</Students>

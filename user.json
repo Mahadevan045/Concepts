@@ -1,0 +1,17 @@
+{
+    "name":"marella mahadevan",
+    "email":"marellamahadevan045@gmail.com",
+    "addressess":
+    [
+        {
+            "type":"perm",
+            "addressline1":"marathalli",
+            "addressline2":"beml layout"
+        },
+        {
+            "type":"current",
+            "addressline1":"marathalli",
+            "addressline2":"beml layout"
+        }
+    ]
+}
